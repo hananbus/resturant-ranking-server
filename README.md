@@ -1,3 +1,6 @@
+building a CRUD REST API with end-to-end tests. Using Typescript and Nestjs(using Docker, Prisma, Pactum, Passport, Postgres)
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
